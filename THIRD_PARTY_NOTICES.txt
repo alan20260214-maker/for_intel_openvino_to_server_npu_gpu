@@ -1,0 +1,29 @@
+本專案使用了以下開源軟體：
+
+- FastAPI (https://fastapi.tiangolo.com/)
+  Copyright © 2018 Sebastián Ramírez
+  Licensed under the MIT License (https://opensource.org/licenses/MIT)
+
+- Uvicorn (https://www.uvicorn.org/)
+  Copyright © 2017 Encode OSS Ltd
+  Licensed under the BSD-3-Clause License (https://github.com/encode/uvicorn/blob/master/LICENSE.md)
+
+- huggingface_hub (https://huggingface.co/docs/hub)
+  Copyright © 2020 Hugging Face
+  Licensed under the Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0)
+
+- openvino_genai (Intel OpenVINO)
+  Copyright © Intel Corporation
+  Licensed under the Apache License, Version 2.0
+
+- psutil (https://github.com/giampaolo/psutil)
+  Copyright © 2009, Jay Loden, Dave Daeschler, Giampaolo Rodola'
+  Licensed under the BSD-3-Clause License
+
+- humanize (https://github.com/jmoiron/humanize)
+  Copyright © 2010-2015 Jason Moiron and contributors
+  Licensed under the MIT License
+
+- requests (https://requests.readthedocs.io/)
+  Copyright © 2019 Kenneth Reitz
+  Licensed under the Apache License, Version 2.0
